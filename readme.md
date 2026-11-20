@@ -22,7 +22,7 @@ If useful, buy me a coffee?
 
 ## Installation
 
-    $ git clone https://github.com/LeeChunHao2000/bitasset-api-wrapper-python3
+    $ git clone https://github.com/brendancme/bitasset-api-wrapper-python3
 
 ## Requirement
 
